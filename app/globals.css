@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+  font-family: Cairo;
+  src: url("../assets/fonts/Cairo-Regular.ttf");
+}
+
+body {
+  font-family: "Cairo" !important;
+
+  background: '#2e1065' !important ;
+}
